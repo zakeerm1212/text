@@ -3,7 +3,7 @@ def sum(a,b):
     return a - b
     return a * b
     return a / b
-
+    adding mahesh123
 n1 = input("Enter the First number")
 n2 = input("Enter the Second number")
 print("sum is: ",sum(n1,n2)x)
